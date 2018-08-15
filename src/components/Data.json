@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name":"Truong Vu",
+        "tel":"2131233213",
+        "Permission":1 
+    },
+
+    {
+        "id": 2,
+        "name":"To Huu",
+        "tel":"45234525",
+        "Permission":2  
+    },
+
+    {
+        "id": 3,
+        "name":"Kim Dung",
+        "tel":"6346262264",
+        "Permission":3 
+    },
+
+    {
+        "id": 4,
+        "name":"Obama",
+        "tel":"5634645623",
+        "Permission":2 
+    },
+
+    {
+        "id": 5,
+        "name":"Trump",
+        "tel":"21312436436",
+        "Permission":2 
+    },
+
+    {
+        "id": 6,
+        "name":"Putin",
+        "tel":"436324623461",
+        "Permission":3 
+    }
+]
